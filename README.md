@@ -33,3 +33,4 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 - [ ] Road Trip somewhere?
 - [ ] Visit New England!
 - [ ] Try writing letters consistently
+- [ ] Find a part-time job
