@@ -48,7 +48,7 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 - [ ] A Political Brain - _Drew Westen_
 - [ ] I am Malala - _Christina Lamb and Malala Yousafzai_
 
-#### Education Related
+### Education Related
 - [ ] The Ideas Industry - _Daniel W. Drezner_
 - [ ] The Smartest Kids in the World - _Amanda Ripley_
 - [ ] Pedagogy of the Oppressed - _Paulo Freire_
