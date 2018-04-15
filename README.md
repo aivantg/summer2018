@@ -10,6 +10,7 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 - [ ] Website-Building Competition
 - [ ] Write a Medium Post!
 - [ ] Create your own personal website/blog
+- [ ] Continue/Finish working on Wikipedia's dataset
 - [ ] Learn how to use Figma to sketch things out
 - [ ] Learn how to use illustrator to build upon the Design Resume
 - [ ] 3D/Laser Print something cool! 
@@ -25,7 +26,6 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 - [ ] Make an application of some kind that teaches people to code as they make more features (like a drawing app)
 - [ ] Think about an Arduino learning curriculum
 - [ ] Write Medium tutorials
-
 
 ## Fun Times!
 - [ ] Visit Abby, Roger, and potentailly Soule in Chicago!
