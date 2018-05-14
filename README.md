@@ -1,7 +1,7 @@
 # summer2018
 A log of all the things that I plan to do and have done in the Summer of 2018
 
-[The long ever-growing list of ideas for the summer](ideas.md)
+[My long ever-growing list of ideas for the summer](ideas.md)
 
 [Summer Reading List](reading.md)
 
