@@ -24,6 +24,7 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 - [ ] Start reading atleast two books from the reading list <names tbd>
 - [ ] Get a gym membership and start running at night/at the gym
 - [ ] Search for a part-time job or volunteer opportunity
+- [ ] Finish learning the basics of Django
 - [ ] Create the basics of a nice UI for the Wikipedia website. Potentially start implementing sockets
 - [ ] Size up the Drone parts stored away in the basement
 - [ ] Finish dreaming up first draft of online course syllabus
