@@ -3,7 +3,7 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 
 [My long ever-growing list of ideas for the summer](ideas.md)
 
-[Summer Reading List](reading.md)
+[Summer Reading List](books.md)
 
 ## Overarching Summer Goals
 (admittedly a little ambitious, but that's me so)
