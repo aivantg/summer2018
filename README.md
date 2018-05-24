@@ -18,13 +18,13 @@ A log of all the things that I plan to do and have done in the Summer of 2018
 
 ## Goals: Week by Week
 **Week of 5/14 - 5/18**
-- [ ] RELAX! Catch up on silicon valley (preferably at the pace of a normal human being)
-- [ ] Make yourself one cool new food item for lunch one day this week
+- [x] RELAX! Catch up on silicon valley (preferably at the pace of a normal human being)
+- [x] Make yourself one cool new food item for lunch one day this week
 - [ ] Try and properly come up with potential travel plans for the summer
-- [ ] Start reading atleast two books from the reading list <names tbd>
-- [ ] Get a gym membership and start running at night/at the gym
-- [ ] Search for a part-time job or volunteer opportunity
-- [ ] Finish learning the basics of Django
+- [x] Start reading atleast two books from the reading list **Update: My first will be "Why Don't Students *Like* School?" by Daniel Willingham*** 
+- [x] Get a gym membership and start running at night/at the gym
+- [x] Search for a part-time job or volunteer opportunity
+- [x] Finish learning the basics of Django
 - [ ] Create the basics of a nice UI for the Wikipedia website. Potentially start implementing sockets
 - [ ] Size up the Drone parts stored away in the basement
 - [ ] Finish dreaming up first draft of online course syllabus
